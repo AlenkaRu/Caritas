@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 half-blood sliserin haflepuff ravenclow
+=======
+half-blood sliserin haflepuff griffindor
+>>>>>>> hotfix
